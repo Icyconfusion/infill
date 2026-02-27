@@ -425,3 +425,10 @@ PandA:
   description: "A printer designed for rapid prototyping on the go."
   repository: "https://raw.githubusercontent.com/lolwutboi987/PandA-RPD/refs/heads/main/JOURNAL.md"
   file_name: PandA.md
+
+Infiniprint:
+  title: "Infiniprint"
+  description: "A belt 3d printer for infinitely long 3d printing"
+  repository: "https://raw.githubusercontent.com/icyconfusion/Infiniprint/refs/heads/main/JOURNAL.md"
+  file_name: Infiniprint.md
+  
